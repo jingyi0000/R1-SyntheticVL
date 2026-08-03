@@ -7,8 +7,8 @@
 <h5 align="center"> 
 
 <a href='https://arxiv.org/pdf/2602.03300'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'>
-<a href=''><img src='https://img.shields.io/badge/Dataset-Huggingface-yellow'>
+<a href='https://huggingface.co/tylin3141/R1-SynVL-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'>
+<a href='https://huggingface.co/datasets/tylin3141/R1-SynVL-20K'><img src='https://img.shields.io/badge/Dataset-Huggingface-yellow'>
 
 [Jingyi Zhang]()<sup>1,2*</sup>,
 [Tianyi Lin]()<sup>3*</sup>,
@@ -26,10 +26,11 @@
 </div>
 
 ## News
+- [x] **`June 26, 2026.`** We release our data [R1-SyntheticVL-20K](https://huggingface.co/datasets/tylin3141/R1-SynVL-20K) and model [R1-SyntheticVL-7B]([tylin3141/R1-SynVL-7B](https://huggingface.co/tylin3141/R1-SynVL-7B)).
 - [x] **`April 30, 2026.`** **R1-SyntheticVL** is accepted by ICML 2026! 🎉
 - [x] **`Feb 03, 2026.`** We release our paper on [arxiv](https://arxiv.org/pdf/2602.03300).
 
- *Code, model and data will be released soon ...*
+
 
  ## Main results
 
