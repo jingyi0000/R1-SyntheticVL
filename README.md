@@ -26,7 +26,7 @@
 </div>
 
 ## News
-- [x] **`June 26, 2026.`** We release our data [R1-SyntheticVL-20K](https://huggingface.co/datasets/tylin3141/R1-SynVL-20K) and model [R1-SyntheticVL-7B]([tylin3141/R1-SynVL-7B](https://huggingface.co/tylin3141/R1-SynVL-7B)).
+- [x] **`June 26, 2026.`** We release our data [R1-SyntheticVL-20K](https://huggingface.co/datasets/tylin3141/R1-SynVL-20K) and model [R1-SyntheticVL-7B]([tylin3141/R1-SynVL-7B](https://huggingface.co/tylin3141/R1-SynVL-7B).
 - [x] **`April 30, 2026.`** **R1-SyntheticVL** is accepted by ICML 2026! 🎉
 - [x] **`Feb 03, 2026.`** We release our paper on [arxiv](https://arxiv.org/pdf/2602.03300).
 
