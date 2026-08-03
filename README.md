@@ -59,11 +59,13 @@ We conduct experiments with base model Qwen2.5-VL-7B.
  ## Citation
 We appreciate your citations if you find our paper related and useful to your research!
 ```
- @article{zhang2026r1,
-  title={R1-SyntheticVL: Is Synthetic Data from Generative Models Ready for Multimodal Large Language Model?},
-  author={Zhang, Jingyi and Lin, Tianyi and Yao, Huanjin and Lan, Xiang and Liu, Shunyu and Huang, Jiaxing},
-  journal={arXiv preprint arXiv:2602.03300},
-  year={2026}
+@inproceedings{
+zhang2026rsyntheticvl,
+title={R1-Synthetic{VL}: Is Synthetic Data from Generative Models Ready for Multimodal Large Language Model?},
+author={Jingyi Zhang and Tianyi Lin and Huanjin Yao and Xiang Lan and Shunyu Liu and Jiaxing Huang},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=t1Ki6pM2EG}
 }
 ```
  
